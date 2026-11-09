@@ -1,0 +1,107 @@
+[
+    {
+        "Name": "fruits",
+        "X": 0,
+        "Y": 0,
+        "Width": 64,
+        "Height": 64
+    },
+    {
+        "Name": "grass1",
+        "X": 0,
+        "Y": 64,
+        "Width": 64,
+        "Height": 64
+    },
+    {
+        "Name": "grass2",
+        "X": 0,
+        "Y": 128,
+        "Width": 64,
+        "Height": 64
+    },
+    {
+        "Name": "grass3",
+        "X": 0,
+        "Y": 192,
+        "Width": 64,
+        "Height": 64
+    },
+    {
+        "Name": "grass4",
+        "X": 64,
+        "Y": 0,
+        "Width": 64,
+        "Height": 64
+    },
+    {
+        "Name": "grass5",
+        "X": 128,
+        "Y": 0,
+        "Width": 64,
+        "Height": 64
+    },
+    {
+        "Name": "grass6",
+        "X": 192,
+        "Y": 0,
+        "Width": 64,
+        "Height": 64
+    },
+    {
+        "Name": "grass7",
+        "X": 64,
+        "Y": 64,
+        "Width": 64,
+        "Height": 64
+    },
+    {
+        "Name": "grass8",
+        "X": 64,
+        "Y": 128,
+        "Width": 64,
+        "Height": 64
+    },
+    {
+        "Name": "grass9",
+        "X": 64,
+        "Y": 192,
+        "Width": 64,
+        "Height": 64
+    },
+    {
+        "Name": "grass10",
+        "X": 128,
+        "Y": 64,
+        "Width": 64,
+        "Height": 64
+    },
+    {
+        "Name": "hedgehog",
+        "X": 192,
+        "Y": 64,
+        "Width": 64,
+        "Height": 64
+    },
+    {
+        "Name": "trees1",
+        "X": 128,
+        "Y": 128,
+        "Width": 64,
+        "Height": 64
+    },
+    {
+        "Name": "trees2",
+        "X": 128,
+        "Y": 192,
+        "Width": 64,
+        "Height": 64
+    },
+    {
+        "Name": "water1",
+        "X": 192,
+        "Y": 128,
+        "Width": 64,
+        "Height": 64
+    }
+]
